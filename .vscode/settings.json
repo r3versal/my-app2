@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/6f27faaf-b6b8-4be9-a773-93b5ca577bae/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/react-cac-dev",
+    "appService.deploySubpath": "build"
+}
